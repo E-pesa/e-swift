@@ -1,5 +1,9 @@
 <h1> iOS SDK</h1>
-<p>Important: PayPal Mobile SDKs are now Deprecated and only existing integrations are supported. For all new integrations, use.</p><a href="https://www.braintreepayments.com/products/braintree-direct"> Braintree Direct</a>
+<p>Important: PayPal Mobile SDKs are now Deprecated and only existing integrations are supported. For all new integrations, use. <a href="https://www.braintreepayments.com/products/braintree-direct"> Braintree Direct</a></p>
 <p align="center">
-	<img alt="E-pesa" src="https://imgur.com/gallery/HG4HzHX" height="140" />
+	<iframe height="140">
+		<video id='video-player' autoplay preload='metadata' controls>
+			<source src="https://i.imgur.com/HG4HzHX.mp4">
+		</video>
+	</iframe>	
 </p>
